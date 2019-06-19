@@ -10,7 +10,6 @@ then exit
 
 ## Getting Started
 Download and install Docker
-go to the folder where the repository is located.
 
 ## Build the Docker image
 Use the command line to build the docker image
@@ -19,7 +18,7 @@ docker build --t=[tagName] [path]
 ```
 Where 
 * [tagName] - The name you want to use for the image
-* [path] - the path to the code
+* [path] - the path to the code 
 
 ## Run the Docker image
 use the command line to run the docker image
