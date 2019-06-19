@@ -14,7 +14,7 @@ Download and install Docker
 ## Build the Docker image
 Use the command line to build the docker image
 ```
-docker build --t=[tagName] [path]
+docker build -t=[tagName] [path]
 ```
 Where 
 * [tagName] - The name you want to use for the image
