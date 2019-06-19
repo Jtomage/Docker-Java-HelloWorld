@@ -10,6 +10,7 @@ then exit
 
 ## Getting Started
 Download and install Docker
+go to the folder where the repository is located.
 
 ## Build the Docker image
 Use the command line to build the docker image
