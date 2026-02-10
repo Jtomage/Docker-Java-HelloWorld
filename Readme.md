@@ -1,5 +1,7 @@
 # Docker-Java-HelloWorld
 
+Archived. Originally created to learn how to build DockerFiles
+
 A Simple Hello World java applications wrapped with Docker. It will print the following
 ```
 Hello World!
